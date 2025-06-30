@@ -348,6 +348,18 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-30 06:34:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-06-30 06:37:00 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_cottage_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-30 05:05:52 +0000"

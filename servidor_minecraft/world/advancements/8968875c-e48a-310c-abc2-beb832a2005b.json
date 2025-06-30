@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-30 06:31:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_lapis": "2025-06-30 06:21:09 +0000"
@@ -68,6 +74,12 @@
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-30 05:15:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-30 06:31:11 +0000"
     },
     "done": true
   },
@@ -137,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-30 06:31:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-06-30 04:59:08 +0000"
@@ -158,6 +176,12 @@
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2025-06-29 19:32:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_at_least_9_iron_ingot": "2025-06-30 06:31:11 +0000"
     },
     "done": true
   },
@@ -218,6 +242,12 @@
   "mcwtrpdoors:recipes/oak/oak_barn_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-30 05:04:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-30 06:31:11 +0000"
     },
     "done": true
   },
@@ -323,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-30 06:31:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2025-06-30 05:04:31 +0000"
@@ -334,6 +370,12 @@
       "cooked_beef": "2025-06-30 05:14:10 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-30 06:31:11 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -347,6 +389,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-30 06:31:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-06-30 05:06:01 +0000"
@@ -356,6 +404,24 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-06-30 05:00:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-30 06:31:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2025-06-30 06:31:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-30 06:31:11 +0000"
     },
     "done": true
   },
@@ -377,6 +443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-30 06:31:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2025-06-30 04:59:36 +0000"
@@ -392,6 +464,12 @@
   "mcwtrpdoors:recipes/birch/birch_classic_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-30 04:55:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-30 06:31:54 +0000"
     },
     "done": true
   },
@@ -437,6 +515,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-30 06:31:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-30 05:59:20 +0000"
@@ -464,6 +548,12 @@
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-06-30 04:58:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-30 06:31:11 +0000"
     },
     "done": true
   },
@@ -527,6 +617,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-30 06:31:11 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_four_panel_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-30 04:55:28 +0000"
@@ -536,6 +632,21 @@
   "mcwtrpdoors:recipes/oak/oak_glass_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-30 05:04:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-06-30 06:31:54 +0000",
+      "iron_chestplate": "2025-06-30 06:31:54 +0000",
+      "iron_leggings": "2025-06-30 06:31:54 +0000",
+      "iron_helmet": "2025-06-30 06:31:54 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/metal/metal_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-30 06:31:11 +0000"
     },
     "done": true
   },
@@ -557,6 +668,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-30 06:31:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2025-06-30 04:53:31 +0000",
@@ -564,6 +681,12 @@
       "forest_hills": "2025-06-29 19:23:46 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-30 06:31:11 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/gray_stained_glass_pane": {
     "criteria": {
@@ -604,6 +727,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_the_recipe": "2025-06-30 04:56:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-30 06:31:11 +0000"
     },
     "done": true
   },
@@ -673,9 +802,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-30 06:31:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-06-30 05:06:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-30 06:31:11 +0000"
     },
     "done": true
   },
@@ -748,6 +889,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-30 05:15:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-30 06:31:11 +0000"
     },
     "done": true
   },
@@ -886,6 +1033,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-06-30 06:31:11 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_barn_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-30 04:55:29 +0000"
@@ -919,6 +1072,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-30 05:59:20 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/metal/metal_full_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-30 06:31:11 +0000"
     },
     "done": true
   },
