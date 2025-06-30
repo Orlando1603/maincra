@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bark/birch_bark_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-30 04:54:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-06-30 05:12:18 +0000"
@@ -104,12 +110,6 @@
   "minecraft:recipes/decorations/lime_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-06-30 05:15:34 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/bark/birch_bark_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-06-30 04:54:49 +0000"
     },
     "done": true
   },
@@ -179,15 +179,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blue_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-06-30 05:15:34 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/oak/oak_four_panel_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-30 05:04:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-30 05:15:34 +0000"
     },
     "done": true
   },
@@ -245,15 +245,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2025-06-30 05:12:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-06-30 05:06:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-06-30 05:12:18 +0000"
     },
     "done": true
   },
@@ -371,15 +371,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-06-30 05:15:34 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/birch/birch_cottage_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-30 04:55:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-30 05:15:34 +0000"
     },
     "done": true
   },
@@ -389,15 +389,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/fence_gate": {
-    "criteria": {
-      "has_planks": "2025-06-30 05:04:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-30 04:55:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-30 05:04:31 +0000"
     },
     "done": true
   },
@@ -449,15 +449,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-06-30 05:59:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-06-30 05:00:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-06-30 05:59:20 +0000"
     },
     "done": true
   },
@@ -547,9 +547,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone": {
+  "minecraft:recipes/building_blocks/birch_wooden_slab": {
     "criteria": {
-      "has_sand": "2025-06-30 05:59:20 +0000"
+      "has_planks": "2025-06-30 04:55:29 +0000"
     },
     "done": true
   },
@@ -559,9 +559,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_wooden_slab": {
+  "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
-      "has_planks": "2025-06-30 04:55:29 +0000"
+      "has_sand": "2025-06-30 05:59:20 +0000"
     },
     "done": true
   },
@@ -583,15 +583,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
-    "criteria": {
-      "has_stonebrick": "2025-06-30 05:39:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-06-30 05:14:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stonebrick": "2025-06-30 05:39:38 +0000"
     },
     "done": true
   },
@@ -607,15 +607,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/stone_sword": {
-    "criteria": {
-      "has_cobblestone": "2025-06-30 05:06:01 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/print_paper": {
     "criteria": {
       "has_planks": "2025-06-30 04:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-06-30 05:06:01 +0000"
     },
     "done": true
   },
@@ -661,9 +661,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
+  "minecraft:adventure/root": {
     "criteria": {
-      "has_stone": "2025-06-30 05:37:56 +0000"
+      "killed_something": "2025-06-30 04:58:27 +0000"
     },
     "done": true
   },
@@ -673,21 +673,21 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
+  "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
-      "killed_something": "2025-06-30 04:58:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/boat": {
-    "criteria": {
-      "entered_water": "2025-06-30 05:22:30 +0000"
+      "has_stone": "2025-06-30 05:37:56 +0000"
     },
     "done": true
   },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-06-30 04:58:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2025-06-30 05:22:30 +0000"
     },
     "done": true
   },
@@ -709,15 +709,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-06-30 05:15:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-06-30 04:58:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-06-30 05:15:34 +0000"
     },
     "done": true
   },
@@ -745,12 +745,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/oak/oak_beach_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-06-30 05:04:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "skeleton": "2025-06-30 04:59:35 +0000",
@@ -759,6 +753,12 @@
       "creeper": "2025-06-30 05:45:17 +0000"
     },
     "done": false
+  },
+  "mcwtrpdoors:recipes/oak/oak_beach_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-30 05:04:31 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
@@ -856,6 +856,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-06-30 04:55:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2025-06-30 05:04:31 +0000"
@@ -868,27 +874,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/birch_fence": {
-    "criteria": {
-      "has_planks": "2025-06-30 04:55:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-30 05:59:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
-    "criteria": {
-      "has_stonebrick": "2025-06-30 05:39:38 +0000"
-    },
-    "done": true
-  },
   "simpleores:recipes/onyx_bow": {
     "criteria": {
       "has_string": "2025-06-30 05:00:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
+    "criteria": {
+      "has_stonebrick": "2025-06-30 05:39:38 +0000"
     },
     "done": true
   },
