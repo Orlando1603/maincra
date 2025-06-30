@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "438823d4-1351-3abf-a204-fcbfa594624e",
+    "name": "Alitaepollo",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "8968875c-e48a-310c-abc2-beb832a2005b",
     "name": "TakeAres",
     "level": 4,
