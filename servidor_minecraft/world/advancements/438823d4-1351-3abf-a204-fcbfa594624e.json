@@ -654,6 +654,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2025-07-01 00:19:21 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_glass_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-30 05:02:35 +0000"
