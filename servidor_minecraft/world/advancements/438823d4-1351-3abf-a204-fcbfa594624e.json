@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-07-08 23:10:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_the_recipe": "2025-06-30 05:02:16 +0000"
@@ -212,6 +218,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-06-30 05:03:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log2": "2025-07-08 23:10:46 +0000"
     },
     "done": true
   },
@@ -1004,6 +1016,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bark/dark_oak_bark_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-08 23:10:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2025-07-08 22:07:18 +0000"
@@ -1017,6 +1035,7 @@
       "beaches": "2025-06-30 05:06:55 +0000",
       "forest_hills": "2025-06-30 04:47:56 +0000",
       "ocean": "2025-06-30 07:03:00 +0000",
+      "roofed_forest": "2025-07-08 23:10:42 +0000",
       "river": "2025-06-30 05:06:49 +0000"
     },
     "done": false
@@ -1111,6 +1130,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-07-08 23:10:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-06-30 05:15:40 +0000"
@@ -1129,6 +1154,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lit_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-07-08 23:10:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2025-06-30 05:35:07 +0000"
@@ -1138,6 +1169,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred_chicken": "2025-07-08 22:15:10 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_four_panel": {
+    "criteria": {
+      "has_planks": "2025-07-08 23:10:46 +0000"
     },
     "done": true
   },
