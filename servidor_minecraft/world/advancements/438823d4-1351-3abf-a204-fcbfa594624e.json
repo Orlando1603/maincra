@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-07-14 04:00:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-06-30 05:15:40 +0000"
@@ -269,15 +275,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dark_oak_door": {
-    "criteria": {
-      "has_planks": "2025-07-08 23:19:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-07-08 22:29:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-07-08 23:19:34 +0000"
     },
     "done": true
   },
@@ -367,9 +373,21 @@
     },
     "done": true
   },
+  "simpleores:recipes/mythril_bow": {
+    "criteria": {
+      "has_string": "2025-07-14 04:00:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2025-06-30 05:02:35 +0000"
+    },
+    "done": true
+  },
+  "simpleores:main/adamantium_ore": {
+    "criteria": {
+      "got_adamantium_ore": "2025-07-14 04:07:22 +0000"
     },
     "done": true
   },
@@ -421,6 +439,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-07-14 04:00:53 +0000"
+    },
+    "done": true
+  },
   "simpleores:recipes/copper_tools": {
     "criteria": {
       "has_copper": "2025-07-08 23:22:36 +0000"
@@ -451,17 +475,17 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2025-07-08 23:45:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "bred_chicken": "2025-07-08 22:15:10 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2025-07-08 23:45:12 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
@@ -693,17 +717,19 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "skeleton": "2025-07-14 04:00:38 +0000",
+      "zombie": "2025-07-08 23:16:17 +0000",
+      "spider": "2025-07-14 04:00:52 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-07-08 23:19:34 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "zombie": "2025-07-08 23:16:17 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
@@ -816,6 +842,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-30 05:09:10 +0000"
+    },
+    "done": true
+  },
+  "simpleores:recipes/onyx_bow": {
+    "criteria": {
+      "has_string": "2025-07-14 04:00:53 +0000"
     },
     "done": true
   },
@@ -1041,6 +1073,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-07-14 04:00:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_wooden_slab": {
     "criteria": {
       "has_planks": "2025-07-08 23:19:34 +0000"
@@ -1128,6 +1166,12 @@
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-07-08 23:45:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/string_to_wool": {
+    "criteria": {
+      "has_string": "2025-07-14 04:00:53 +0000"
     },
     "done": true
   },
@@ -1332,6 +1376,12 @@
   "mcwtrpdoors:recipes/oak/oak_beach_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-30 05:02:35 +0000"
+    },
+    "done": true
+  },
+  "simpleores:main/mythril_ore": {
+    "criteria": {
+      "got_mythril_ore": "2025-07-14 04:06:55 +0000"
     },
     "done": true
   },

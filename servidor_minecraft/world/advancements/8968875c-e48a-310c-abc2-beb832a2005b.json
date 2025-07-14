@@ -402,6 +402,12 @@
     },
     "done": true
   },
+  "simpleores:main/adamantium_ore": {
+    "criteria": {
+      "got_adamantium_ore": "2025-07-14 04:05:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-06-30 18:18:32 +0000"
@@ -997,6 +1003,12 @@
     },
     "done": true
   },
+  "ebwizardry:crystal": {
+    "criteria": {
+      "criteria_0": "2025-07-14 04:07:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2025-07-08 22:13:07 +0000"
@@ -1207,9 +1219,21 @@
     },
     "done": true
   },
+  "simpleores:main/copper_ore": {
+    "criteria": {
+      "got_copper_ore": "2025-07-14 04:02:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_log": "2025-06-30 04:54:49 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:root": {
+    "criteria": {
+      "criteria_0": "2025-07-14 04:07:27 +0000"
     },
     "done": true
   },
@@ -1511,6 +1535,12 @@
   "mcwtrpdoors:recipes/oak/oak_beach_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-30 05:04:31 +0000"
+    },
+    "done": true
+  },
+  "simpleores:main/mythril_ore": {
+    "criteria": {
+      "got_mythril_ore": "2025-07-14 04:03:27 +0000"
     },
     "done": true
   },
