@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "simpleores:recipes/copper_armor": {
+    "criteria": {
+      "has_copper": "2025-07-14 04:16:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-30 05:15:34 +0000"
@@ -260,6 +266,12 @@
   "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
     "criteria": {
       "has_bonemeal": "2025-07-08 22:13:07 +0000"
+    },
+    "done": true
+  },
+  "simpleores:recipes/adamantium_armor": {
+    "criteria": {
+      "has_adamantium": "2025-07-14 04:12:27 +0000"
     },
     "done": true
   },
@@ -474,6 +486,12 @@
     },
     "done": true
   },
+  "simpleores:recipes/copper_tools": {
+    "criteria": {
+      "has_copper": "2025-07-14 04:16:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-06-30 05:15:34 +0000"
@@ -552,6 +570,12 @@
       "iron_chestplate": "2025-06-30 06:31:54 +0000",
       "iron_leggings": "2025-06-30 06:31:54 +0000",
       "iron_helmet": "2025-06-30 06:31:54 +0000"
+    },
+    "done": true
+  },
+  "simpleores:recipes/mythril_armor": {
+    "criteria": {
+      "has_mythril": "2025-07-14 04:16:06 +0000"
     },
     "done": true
   },
@@ -759,6 +783,12 @@
     },
     "done": true
   },
+  "simpleores:main/adamantium_leggings": {
+    "criteria": {
+      "got_adamantium_legs": "2025-07-14 04:14:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-06-30 05:15:34 +0000"
@@ -853,6 +883,12 @@
     },
     "done": true
   },
+  "simpleores:main/tin_ore": {
+    "criteria": {
+      "got_tin_ore": "2025-07-14 04:17:39 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_barn_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-30 04:55:29 +0000"
@@ -916,6 +952,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-06-30 06:57:43 +0000"
+    },
+    "done": true
+  },
+  "simpleores:recipes/mythril_tools": {
+    "criteria": {
+      "has_mythril": "2025-07-14 04:16:06 +0000"
     },
     "done": true
   },
@@ -1553,6 +1595,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-06-30 18:22:35 +0000"
+    },
+    "done": true
+  },
+  "simpleores:recipes/adamantium_tools": {
+    "criteria": {
+      "has_adamantium": "2025-07-14 04:12:27 +0000"
     },
     "done": true
   },
