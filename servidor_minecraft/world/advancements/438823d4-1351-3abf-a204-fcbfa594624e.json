@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "simpleores:recipes/adamantium_armor": {
+    "criteria": {
+      "has_adamantium": "2025-07-14 05:03:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-06-30 05:03:35 +0000"
@@ -582,6 +588,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-07-14 04:11:54 +0000"
+    },
+    "done": true
+  },
+  "simpleores:recipes/mythril_armor": {
+    "criteria": {
+      "has_mythril": "2025-07-14 05:02:28 +0000"
     },
     "done": true
   },
@@ -980,6 +992,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-06-30 06:54:44 +0000"
+    },
+    "done": true
+  },
+  "simpleores:recipes/mythril_tools": {
+    "criteria": {
+      "has_mythril": "2025-07-14 05:02:28 +0000"
     },
     "done": true
   },
@@ -1569,6 +1587,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-07-08 23:45:12 +0000"
+    },
+    "done": true
+  },
+  "simpleores:recipes/adamantium_tools": {
+    "criteria": {
+      "has_adamantium": "2025-07-14 05:03:59 +0000"
     },
     "done": true
   },
