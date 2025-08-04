@@ -731,6 +731,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2025-07-22 22:16:37 +0000",
+      "wither_skeleton": "2025-08-04 02:52:22 +0000",
       "magma_cube": "2025-07-22 22:52:40 +0000",
       "skeleton": "2025-06-30 04:59:35 +0000",
       "blaze": "2025-07-22 22:10:29 +0000",
@@ -2613,6 +2614,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-06-30 18:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-08-04 02:51:31 +0000"
     },
     "done": true
   },
