@@ -925,6 +925,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-08-04 03:04:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-07-08 23:45:12 +0000"
@@ -1555,6 +1561,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-08-04 03:04:04 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bark/dark_oak_bark_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-08 23:10:46 +0000"
@@ -1883,6 +1895,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-06-30 05:10:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-08-04 03:04:04 +0000"
     },
     "done": true
   },
