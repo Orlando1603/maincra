@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "ebwizardry:find_library_ruins": {
+    "criteria": {
+      "surface": "2025-08-05 18:05:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-06-30 05:02:33 +0000"
@@ -586,6 +592,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-07-14 04:00:53 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/scrolls": {
+    "criteria": {
+      "criteria_0": "2025-08-05 18:05:44 +0000"
     },
     "done": true
   },
@@ -1249,6 +1261,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2025-08-05 18:11:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-06-30 06:54:44 +0000"
@@ -1773,6 +1791,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-06-30 05:10:12 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/spells": {
+    "criteria": {
+      "criteria_0": "2025-08-05 18:05:50 +0000"
     },
     "done": true
   },
