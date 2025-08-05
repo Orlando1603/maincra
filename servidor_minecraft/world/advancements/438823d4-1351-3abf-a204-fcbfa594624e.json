@@ -1046,6 +1046,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "skeleton": "2025-07-14 04:00:38 +0000",
+      "blaze": "2025-08-05 23:38:25 +0000",
       "zombie": "2025-07-08 23:16:17 +0000",
       "silverfish": "2025-08-05 23:19:32 +0000",
       "spider": "2025-07-14 04:00:52 +0000",
@@ -1321,6 +1322,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_lapis": "2025-06-30 06:22:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-08-05 23:38:56 +0000"
     },
     "done": true
   },
@@ -1750,6 +1757,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-08-05 23:38:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2025-06-30 06:38:35 +0000"
@@ -1831,6 +1844,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-08-05 22:15:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-08-05 23:38:56 +0000"
     },
     "done": true
   },
@@ -2013,6 +2032,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2025-06-30 05:09:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-05 23:38:25 +0000"
     },
     "done": true
   },
