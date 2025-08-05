@@ -359,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-05 18:30:38 +0000"
+    },
+    "done": true
+  },
   "simpleores:recipes/adamantium_armor": {
     "criteria": {
       "has_adamantium": "2025-07-14 05:03:59 +0000"
