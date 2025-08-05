@@ -545,6 +545,12 @@
     },
     "done": true
   },
+  "ebwizardry:wizard_trade": {
+    "criteria": {
+      "criteria_0": "2025-08-05 17:37:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_the_recipe": "2025-07-22 20:44:15 +0000"
@@ -857,6 +863,12 @@
   "mcwtrpdoors:recipes/bark/spruce_bark_trapdoor": {
     "criteria": {
       "has_the_recipe": "2025-07-22 20:44:15 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:anger_wizard": {
+    "criteria": {
+      "criteria_0": "2025-08-05 17:41:30 +0000"
     },
     "done": true
   },

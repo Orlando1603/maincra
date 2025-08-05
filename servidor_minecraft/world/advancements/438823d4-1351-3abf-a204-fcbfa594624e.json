@@ -1105,6 +1105,12 @@
     },
     "done": true
   },
+  "ebwizardry:anger_wizard": {
+    "criteria": {
+      "criteria_0": "2025-08-05 17:41:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-07-14 04:11:54 +0000"
