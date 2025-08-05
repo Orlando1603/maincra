@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/spruce/spruce_barn_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-04 04:39:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2025-06-30 05:02:35 +0000"
@@ -65,9 +71,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-08-04 04:39:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_the_recipe": "2025-07-22 03:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2025-08-04 03:43:10 +0000"
     },
     "done": true
   },
@@ -131,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-04 04:39:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-06-30 05:06:24 +0000"
@@ -176,6 +200,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-07-22 03:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-08-04 04:02:18 +0000"
     },
     "done": true
   },
@@ -317,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-08-04 03:58:04 +0000"
+    },
+    "done": true
+  },
   "simpleores:recipes/adamantium_armor": {
     "criteria": {
       "has_adamantium": "2025-07-14 05:03:59 +0000"
@@ -400,6 +436,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-06-30 06:54:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/speckled_melon": {
+    "criteria": {
+      "has_melon": "2025-08-04 04:02:18 +0000"
     },
     "done": true
   },
@@ -677,6 +719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-08-04 03:58:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-07-22 03:22:48 +0000"
@@ -716,6 +764,12 @@
   "mcwtrpdoors:recipes/print_classic": {
     "criteria": {
       "has_planks": "2025-06-30 04:58:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2025-08-04 04:07:56 +0000"
     },
     "done": true
   },
@@ -797,6 +851,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/spruce/spruce_four_panel_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-04 04:39:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2025-06-30 05:09:05 +0000"
@@ -875,6 +935,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-08-04 04:39:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-07-14 04:11:54 +0000"
@@ -937,6 +1003,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/spruce/spruce_tropical_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-04 04:39:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2025-06-30 06:38:35 +0000"
@@ -964,6 +1036,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-06-30 05:15:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-04 04:39:07 +0000"
     },
     "done": true
   },
@@ -997,9 +1075,21 @@
     },
     "done": true
   },
+  "ebwizardry:wizard_tower": {
+    "criteria": {
+      "criteria_0": "2025-08-04 04:48:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_the_recipe": "2025-06-30 06:22:10 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bark/spruce_bark_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-04 04:07:56 +0000"
     },
     "done": true
   },
@@ -1279,6 +1369,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2025-08-04 03:43:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2025-07-14 04:57:02 +0000"
@@ -1330,6 +1426,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-30 05:09:10 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_beach_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-04 04:39:07 +0000"
     },
     "done": true
   },
@@ -1429,9 +1531,21 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/spruce/spruce_classic_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-04 04:39:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-06-30 06:34:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-08-04 04:39:07 +0000"
     },
     "done": true
   },
@@ -1537,6 +1651,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/print_cottage": {
+    "criteria": {
+      "has_planks": "2025-08-04 04:07:56 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_glass_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-30 05:02:35 +0000"
@@ -1546,6 +1666,12 @@
   "mcwtrpdoors:recipes/metal/metal_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-30 06:54:03 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_paper_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-04 04:39:07 +0000"
     },
     "done": true
   },
@@ -1573,6 +1699,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/spruce/spruce_glass_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-04 04:39:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2025-07-08 22:07:18 +0000"
@@ -1583,12 +1715,16 @@
     "criteria": {
       "forest": "2025-06-30 04:59:12 +0000",
       "swampland": "2025-06-30 06:21:53 +0000",
+      "deep_ocean": "2025-08-04 04:42:04 +0000",
       "beaches": "2025-06-30 05:06:55 +0000",
+      "extreme_hills_with_trees": "2025-08-04 03:40:49 +0000",
       "forest_hills": "2025-06-30 04:47:56 +0000",
       "plains": "2025-07-14 04:43:29 +0000",
       "ocean": "2025-06-30 07:03:00 +0000",
+      "extreme_hills": "2025-08-04 03:41:02 +0000",
       "roofed_forest": "2025-07-08 23:10:42 +0000",
-      "river": "2025-06-30 05:06:49 +0000"
+      "river": "2025-06-30 05:06:49 +0000",
+      "stone_beach": "2025-08-04 03:52:12 +0000"
     },
     "done": false
   },
@@ -1823,6 +1959,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-06-30 06:54:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon_block": {
+    "criteria": {
+      "has_melon": "2025-08-04 04:02:18 +0000"
     },
     "done": true
   },

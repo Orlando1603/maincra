@@ -491,6 +491,12 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/scrolls": {
+    "criteria": {
+      "criteria_0": "2025-08-04 03:28:13 +0000"
+    },
+    "done": true
+  },
   "simpleores:recipes/copper_tools": {
     "criteria": {
       "has_copper": "2025-07-14 04:16:10 +0000"
@@ -680,6 +686,12 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/arcane_workbench": {
+    "criteria": {
+      "criteria_0": "2025-08-04 03:28:29 +0000"
+    },
+    "done": true
+  },
   "simpleores:main/onyx_sword": {
     "criteria": {
       "got_onyx_sword": "2025-07-22 22:20:02 +0000"
@@ -691,6 +703,12 @@
       "has_the_recipe": "2025-07-22 20:44:15 +0000"
     },
     "done": true
+  },
+  "ebwizardry:handbook/tome_of_arcana": {
+    "criteria": {
+      "criteria_0": "2025-08-04 03:28:13 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
@@ -732,11 +750,13 @@
     "criteria": {
       "zombie_pigman": "2025-07-22 22:16:37 +0000",
       "wither_skeleton": "2025-08-04 02:52:22 +0000",
+      "zombie_villager": "2025-08-04 03:24:52 +0000",
       "magma_cube": "2025-07-22 22:52:40 +0000",
       "skeleton": "2025-06-30 04:59:35 +0000",
       "blaze": "2025-07-22 22:10:29 +0000",
       "zombie": "2025-06-30 04:59:20 +0000",
       "silverfish": "2025-07-22 22:08:21 +0000",
+      "guardian": "2025-08-04 03:41:50 +0000",
       "spider": "2025-06-30 05:00:02 +0000",
       "ghast": "2025-07-22 22:40:46 +0000",
       "creeper": "2025-06-30 05:45:17 +0000",
@@ -1375,12 +1395,20 @@
       "birch_forest": "2025-07-22 21:45:26 +0000",
       "deep_ocean": "2025-06-30 07:06:43 +0000",
       "beaches": "2025-06-30 07:03:37 +0000",
+      "extreme_hills_with_trees": "2025-08-04 03:29:14 +0000",
       "forest_hills": "2025-06-29 19:23:46 +0000",
       "plains": "2025-07-14 04:21:40 +0000",
+      "jungle_hills": "2025-08-04 03:32:38 +0000",
+      "jungle_edge": "2025-08-04 03:35:46 +0000",
+      "taiga": "2025-08-04 03:30:39 +0000",
+      "taiga_hills": "2025-08-04 03:29:05 +0000",
       "birch_forest_hills": "2025-07-22 21:44:45 +0000",
       "ocean": "2025-07-08 23:36:23 +0000",
+      "extreme_hills": "2025-08-04 03:22:12 +0000",
       "roofed_forest": "2025-07-08 23:34:40 +0000",
-      "river": "2025-06-30 07:03:10 +0000"
+      "river": "2025-06-30 07:03:10 +0000",
+      "jungle": "2025-08-04 03:32:36 +0000",
+      "stone_beach": "2025-08-04 03:39:02 +0000"
     },
     "done": false
   },
@@ -1513,6 +1541,12 @@
   "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
       "has_the_recipe": "2025-07-22 20:44:15 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/throwables": {
+    "criteria": {
+      "criteria_0": "2025-08-04 03:34:49 +0000"
     },
     "done": true
   },
@@ -1992,6 +2026,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-08-04 03:30:20 +0000",
       "cooked_beef": "2025-06-30 05:14:10 +0000",
       "rabbit_stew": "2025-07-08 23:38:41 +0000"
     },
@@ -2277,6 +2312,7 @@
   },
   "ebwizardry:all_artefacts": {
     "criteria": {
+      "ring_extraction": "2025-08-04 03:29:45 +0000",
       "ring_paladin": "2025-08-04 03:01:59 +0000"
     },
     "done": false
