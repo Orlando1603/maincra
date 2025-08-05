@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-08-05 23:01:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2025-06-30 05:02:35 +0000"
@@ -1550,6 +1556,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-05 23:01:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2025-06-30 05:02:35 +0000"
@@ -1879,6 +1891,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-06-30 06:54:03 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:defeat_remnant": {
+    "criteria": {
+      "healing": "2025-08-05 23:03:12 +0000"
     },
     "done": true
   },
