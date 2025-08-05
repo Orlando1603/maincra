@@ -437,6 +437,12 @@
     },
     "done": true
   },
+  "ebwizardry:apprentice": {
+    "criteria": {
+      "lightning": "2025-08-05 17:45:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-06-30 06:54:47 +0000"
@@ -1037,6 +1043,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_the_recipe": "2025-07-22 20:44:15 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/obelisks": {
+    "criteria": {
+      "criteria_0": "2025-08-05 17:50:29 +0000"
     },
     "done": true
   },
@@ -2992,6 +3004,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-06-30 06:31:11 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:defeat_remnant": {
+    "criteria": {
+      "necromancy": "2025-08-05 17:49:48 +0000"
     },
     "done": true
   },
